@@ -20,5 +20,5 @@ The StackOverflow Survey 2017
 The notebook available here showcases work related to the above questions.
 ## Results<a name ="Results"></a>
 The main findings of the code can be found at the post available here
-Licensing, Authors, Acknowledgements
+## Licensing, Authors, Acknowledgements
 Credits are given to Kaggle and Stackoverflow for the dataset used in this project.
