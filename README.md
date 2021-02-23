@@ -17,7 +17,7 @@ The StackOverflow Survey 2017
 3.	HOW EFFECTIVE IS WORKING REMOTELY AS A SOFTWARE DEVELOPER?
 4.	PERCENTAGE OF SUCCESSFUL FEMALE SOFTWARE DEVELOPER USING CAREERSATISFACTION AND SALARY AS METRICS¶
 ## File Descriptions<a name ="Descriptions"></a>
-The notebook available here showcases work related to the above questions.
+The notebook available [here](hhttps://seunayorinde.medium.com/would-a-university-degree-make-me-successful-as-a-software-developer-729399804083)
 ## Results<a name ="Results"></a>
 The main findings of the code can be found at the post available here
 ## Licensing, Authors, Acknowledgements
